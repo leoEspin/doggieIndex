@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+<center> <h1>The Doggie "Economic Index"</h1> </center>
 
-You can use the [editor on GitHub](https://github.com/leoEspin/doggieIndex/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Author:** Leonardo Espin.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Date: 11/09/2018
 
-### Markdown
+A common sight in New York City is people walking their dogs. Sometimes the dogs can be seen wearing boots, vests or even what it looks like expensive coats. This gave me the idea that perhaps dog ownership could be used as an *indicator of disposable income*, by tying geographical income information with New York City dog licensing data.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*Why having such an indicator would be useful?*. Because it would be a very flexible and dynamic proxy measure of income. For instance the most accurate geographical income information is obtained through the U.S. Census, which is a decennial census (the next one will take place in 2020).  On the other hand, in NYC dog owners are required by law to license their dogs, which means that dog licensing data is updated continuously.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leoEspin/doggieIndex/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://leoespin.github.io/doggieIndex/
