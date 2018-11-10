@@ -1,4 +1,4 @@
-<center> <h1>The Doggie "Economic Index"</h1> </center>
+<center> <h1>The Doggy "Economic Index"</h1> </center>
 
 **Author:** Leonardo Espin.
 
@@ -8,4 +8,4 @@ A common sight in New York City is people walking their dogs. Sometimes the dogs
 
 *Why having such an indicator would be useful?*. Because it would be a very flexible and dynamic proxy measure of income. For instance the most accurate geographical income information is obtained through the U.S. Census, which is a decennial census (the next one will take place in 2020).  On the other hand, in NYC dog owners are required by law to license their dogs, which means that dog licensing data is updated continuously.
 
-https://leoespin.github.io/doggieIndex/
+https://leoespin.github.io/doggyindex/
